@@ -3,9 +3,9 @@ import ZipCodeInfo from './ZipCodeInfo';
 
 function App() {
   return (
-    <div className="h-screen">
+    // <div className="App h-screen relative">
       <ZipCodeInfo />
-    </div>
+    // </div>
   );
 }
 

@@ -2,7 +2,8 @@
 @tailwind components;
 @tailwind utilities;
 
-body{
-    margin: 0;
-    padding: 0;
+body {
+    background: linear-gradient(125deg, #f4c0f7, #5540da);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
 }
