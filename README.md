@@ -1,4 +1,4 @@
-# Analog-and-Digital-Clock :clock10:
+# Zip Code Information App :
 I've created a responsive React and Tailwind app that fetches and displays country, state, and place info based on zip code input with error handling.
 
 <img src="/Zip_image.png">
