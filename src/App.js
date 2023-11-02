@@ -1,9 +1,10 @@
 import './App.css';
+import ZipCodeInfo from './ZipCodeInfo';
 
 function App() {
   return (
-    <div className="App">
-      
+    <div className="h-screen">
+      <ZipCodeInfo />
     </div>
   );
 }
